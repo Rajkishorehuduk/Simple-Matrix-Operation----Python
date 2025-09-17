@@ -118,6 +118,5 @@ def main():
                 print("Error: Matrices must be of same dimensions to check equality.")
         else:
             print("Invalid choice.")
-
 if __name__ == "__main__":
     main()
